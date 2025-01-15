@@ -1,0 +1,1 @@
+t = [] for i in range(len(set([i]))): t.append([i]) t.append([i]) t.append([i]) t.append([i]) t.append([i]) t.append([i]) t.append([i]) t.append([i]) t.append([i]) t.append([i]) t.append([i]) t.append([i]) t.append([i]) t.append([i]) t.append([i]) t.append([i]) t.append([i]) t.append([i]) t.append([i]) t.append([i]) t.append([i]) t.append([i]) t.append([
